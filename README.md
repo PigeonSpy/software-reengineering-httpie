@@ -1,4 +1,6 @@
 # Software Re-engineering: HTTPie Case Study
+## Note
+Project commit history is unavailable, this is a clone of a private repository and the commit history could not be properly recovered due to commits that contained private information.
 
 ## Project Overview
 This repository contains a software re-engineering project based on a fork of the popular open-source CLI HTTP client, **HTTPie**. 
