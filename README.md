@@ -26,7 +26,7 @@ To analyze and improve the codebase, our team utilized:
 * **Dynamic Analysis Diagnostics:** Executed dynamic analysis tracking to map frequent file dependencies and method call chains. Successfully diagnosed that the `Sessions` module was structurally tightly coupled with formatting files, guiding our refactoring roadmap. Further identified `argparser.py`, `models.py` and `core.py` as candidates for refactoring and reengineering.
 
 ## This was a collaborative project as part of a team
-* **Pijus Lucinskas**: [@PigeonSpy](https://github.com)
+* **Pijus Lucinskas**: [@PigeonSpy](https://github.com/PigeonSpy)
 * **Cristian Razvan Popa**: [@CristianRazvanPopa](https://github.com/CristianRazvanPopa)
 * **Frederico Ferri**: [@FredericoFerri](https://github.com/FredericoFerri)
 * **Ethan Pinkerton**: [@EthanPinkerton](https://github.com/EthanPinkerton)
